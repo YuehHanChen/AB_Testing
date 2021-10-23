@@ -7,7 +7,7 @@ by Yueh-Han Chen
 In this project, I conducted A/B tests and regression analysis to examine the conversion rate difference between the control and experiment groups. 
 
 ## Data set information:
-This data set was originally came from Udacity's Data Analyst Nanodegree Program.
+This data set was originally from Udacity's Data Analyst Nanodegree Program.
 
 ## Part A
 I used 2 approaches, the P-Value method, and Z-tests to conduct A/B Tests.
